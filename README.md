@@ -1,2 +1,2 @@
-#http://lusantosbjj1.github.io
+http://lusantosbjj1.github.io
 Lista 1 de Web
